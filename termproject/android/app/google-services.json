@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "100260393147",
+    "firebase_url": "https://broncochat-389b6.firebaseio.com",
+    "project_id": "broncochat-389b6",
+    "storage_bucket": "broncochat-389b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100260393147:android:a65535e9dfa0d575ba799e",
+        "android_client_info": {
+          "package_name": "edu.uco.kowshik.termproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100260393147-km690pe786n77uk2u4qqvu3q26d040q6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.uco.kowshik.termproject",
+            "certificate_hash": "42d7c035d3516582840c41e3c3471bb8cbb36956"
+          }
+        },
+        {
+          "client_id": "100260393147-7g61gthj3f8ce43edriecrem909lqkds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz44zgc1iocQc5jxnC-U25OShW7B5oLvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100260393147-7g61gthj3f8ce43edriecrem909lqkds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
